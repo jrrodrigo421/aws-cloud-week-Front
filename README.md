@@ -74,4 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## OBS:
 
 *Projeto proposto pela Startup DIO - Digital Innovation One*
+
+<br>
+
 *Instrutor: Cassiano*
