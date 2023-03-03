@@ -45,7 +45,7 @@ export const ChatClient = (props: Props) => {
               borderBottomLeftRadius: '10px',  
             }}
             style={{ 
-              backgroundColor: '#2D46C9',
+              backgroundColor: '#066008',
               color: 'white',
               fontFamily: 'segoe UI'
             }}
